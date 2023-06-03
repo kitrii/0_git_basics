@@ -3,4 +3,3 @@
 echo "The current directory is:"
 pwd
 
-error
